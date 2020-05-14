@@ -1,0 +1,104 @@
+
+bird2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BB
+  rotate: false
+  xy: 45, 90
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+BBW
+  rotate: false
+  xy: 87, 48
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+BL
+  rotate: false
+  xy: 115, 50
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+BLL
+  rotate: false
+  xy: 85, 36
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+BLR
+  rotate: false
+  xy: 99, 37
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+BR
+  rotate: true
+  xy: 115, 38
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+BWL
+  rotate: false
+  xy: 87, 64
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+BWL1
+  rotate: false
+  xy: 2, 32
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+BWL2
+  rotate: true
+  xy: 52, 4
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+BWL3
+  rotate: false
+  xy: 45, 62
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+BWR
+  rotate: false
+  xy: 43, 39
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+BWR1
+  rotate: false
+  xy: 2, 76
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+BWR2
+  rotate: true
+  xy: 88, 87
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+BWR3
+  rotate: false
+  xy: 2, 2
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1

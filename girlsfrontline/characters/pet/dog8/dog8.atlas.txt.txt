@@ -1,0 +1,160 @@
+
+dog8.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2Bleg1
+  rotate: true
+  xy: 143, 148
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+2Bleg2
+  rotate: false
+  xy: 91, 131
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+2Fleg
+  rotate: true
+  xy: 208, 149
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+2Fleg2
+  rotate: true
+  xy: 67, 3
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+BRleg1
+  rotate: false
+  xy: 112, 144
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+BRleg2
+  rotate: true
+  xy: 91, 102
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+FRleg1
+  rotate: false
+  xy: 67, 24
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+FRleg2
+  rotate: false
+  xy: 104, 69
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+FRleg2S
+  rotate: false
+  xy: 104, 42
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 69, 59
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Leye
+  rotate: false
+  xy: 97, 2
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 188, 172
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+Reye
+  rotate: false
+  xy: 97, 22
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 64
+  size: 101, 65
+  orig: 101, 65
+  offset: 0, 0
+  index: -1
+bodyS1
+  rotate: false
+  xy: 2, 13
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+bodyS2
+  rotate: false
+  xy: 99, 175
+  size: 87, 79
+  orig: 87, 79
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 167
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+item
+  rotate: true
+  xy: 69, 102
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+itemX
+  rotate: false
+  xy: 232, 208
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 236, 144
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 175, 151
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+stick
+  rotate: false
+  xy: 188, 207
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1

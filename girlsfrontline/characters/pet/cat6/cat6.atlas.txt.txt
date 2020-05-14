@@ -1,0 +1,139 @@
+
+cat6.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 91, 211
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 2, 133
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+earL
+  rotate: false
+  xy: 173, 212
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+earR
+  rotate: false
+  xy: 2, 81
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 91, 183
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 74, 86
+  size: 45, 9
+  orig: 45, 9
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 181
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+legBL
+  rotate: false
+  xy: 215, 226
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+legBL2
+  rotate: true
+  xy: 215, 207
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+legBR
+  rotate: false
+  xy: 45, 47
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+legBR2
+  rotate: false
+  xy: 22, 20
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+legFL
+  rotate: false
+  xy: 43, 22
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+legFL2
+  rotate: true
+  xy: 46, 69
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+legFR
+  rotate: false
+  xy: 145, 187
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+legFR2
+  rotate: false
+  xy: 2, 16
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 240, 239
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 22, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 2, 47
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 46, 86
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
